@@ -19,3 +19,5 @@ Apps for studying Tkinter
 
 **Помощь** - во вкладке помощь можно ещё раз прочитать полезную информацию.
 
+![image](https://github.com/LuckyLi0n/MNK-Tool/assets/43672807/b00a02a3-9fc9-4131-ae80-9c614f9953c4)
+
